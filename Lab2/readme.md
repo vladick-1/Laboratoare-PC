@@ -1,1 +1,1 @@
-Laborator despre tablouri unidimensionale in C. Se calculeaza minimul, pozitiile si produsul elementelor pozitive.
+Laboratorul este dedicat lucrului cu tablouri unidimensionale în limbajul C. Sunt implementați algoritmi pentru determinarea valorii minime, a pozițiilor acesteia și pentru calculul produsului elementelor pozitive. De asemenea, sunt exersate instrucțiunile de ramificare și ciclare.
