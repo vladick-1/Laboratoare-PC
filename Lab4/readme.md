@@ -1,1 +1,1 @@
-Prelucrare avansata a matricilor in C. Operatii pe linii/coloane si elemente de pe perimetru.
+Laboratorul continuă studiul tablourilor bidimensionale în C, punând accent pe prelucrarea pe linii, coloane și pe perimetrul matricei. Sunt implementați algoritmi pentru calcularea produselor, numărarea elementelor pozitive și analiza rezultatelor. Lucrarea dezvoltă gândirea algoritmică și atenția la detalii.
