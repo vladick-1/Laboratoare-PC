@@ -1,1 +1,1 @@
-Laborator despre siruri de caractere in C. Numara cuvinte/consoane, inverseaza sirul si verifica palindromul.
+Acest laborator tratează prelucrarea șirurilor de caractere în limbajul C. Sunt implementate funcții pentru numărarea cuvintelor și consoanelor, inversarea șirurilor și verificarea palindromului. Programul este organizat sub formă de meniu și consolidează lucrul cu șiruri și funcții standard.
