@@ -1,1 +1,1 @@
-Acest laborator este o introducere in C. Se lucreaza cu tipuri de date, operatori si functiile scanf/printf.
+Acest laborator reprezintă o introducere în limbajul de programare C. Sunt studiate tipurile de date de bază, operatorii aritmetici și logici, precum și funcțiile de intrare și ieșire scanf și printf. Scopul lucrării este înțelegerea structurii unui program C și a operațiilor elementare.
