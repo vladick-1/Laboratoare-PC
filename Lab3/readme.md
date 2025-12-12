@@ -1,1 +1,1 @@
-Laborator despre matrici (tablouri 2D) in C. Se calculeaza sume, produse si valorile min/max.
+Acest laborator abordează prelucrarea tablourilor bidimensionale (matrici) în limbajul C. Sunt realizate operații precum calculul sumelor elementelor negative, produsul elementelor nenule și determinarea valorilor minime și maxime. Scopul este aprofundarea lucrului cu matrice și parcurgerea lor eficientă.
